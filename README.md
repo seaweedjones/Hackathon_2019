@@ -1,3 +1,5 @@
 # Hackathon Project 2019
 
-## Test
+This git will be in use during our Hackathon at Concordia U
+
+
